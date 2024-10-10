@@ -1,4 +1,4 @@
-<svelte:options accessors={false} immutable={true} />
+<svelte:options accessors={false} immutable={true} customElement="svelte-jsoneditor" />
 
 <script lang="ts">
   import { createDebug } from '../utils/debug.js'
